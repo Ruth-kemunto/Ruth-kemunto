@@ -1,6 +1,4 @@
-# Tech Stack
-
-## Languages
+#🖥💻 Tech Stack
 - PHP
 - JavaScript 
 - HTML
@@ -14,6 +12,8 @@
 
 ## Tools
 - Git
+- Anaconda
+- Jupyter Notebook
 - VS Code
 <!---
 Ruth-kemunto/Ruth-kemunto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
